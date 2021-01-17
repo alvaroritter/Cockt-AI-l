@@ -6,7 +6,7 @@ Our goal is to create a system that automatically mixes a desired drink with the
 - A bottle storage, including the necessary mechanisms to open and close the bottle again after a specified amount of time
 - A motorized glass transportation system, which will move back and forth underneath the bottles
 
-
+![](img/Sketch.png)
 
 ## The Components
 - Arduino UNO, controls bottles
