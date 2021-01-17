@@ -6,10 +6,11 @@ Our goal is to create a system that automatically mixes a desired drink with the
 - A bottle storage, including the necessary mechanisms to open and close the bottle again after a specified amount of time
 - A motorized glass transportation system, which will move back and forth underneath the bottles
 
-
+![](img/Sketch.png)
 
 ## The Components
-- Arduino UNO, controls bottles
-- Arduino Nano, controls glass movement
+- Arduino UNO, controls glass movement
+- Arduino Nano, controls bottles
 - MG 996R servo motors, one for each bottle
 - 2x HC-05 Bluetooth modules
+- Stuff needed for the glass transport (H-bridge, gear motors, etc.)
