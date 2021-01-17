@@ -13,3 +13,4 @@ Our goal is to create a system that automatically mixes a desired drink with the
 - Arduino Nano, controls glass movement
 - MG 996R servo motors, one for each bottle
 - 2x HC-05 Bluetooth modules
+- Stuff needed for the glass transport (H-bridge, gear motors, etc.)
