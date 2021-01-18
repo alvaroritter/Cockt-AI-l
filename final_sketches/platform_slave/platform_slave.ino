@@ -33,7 +33,7 @@ void loop() {
 }
 
 void move_forward() {
-  int timeMoving = 1000;
+  int timeMoving = 900;
   digitalWrite (rForward, HIGH);
   digitalWrite (rBackward, LOW);
   digitalWrite (lForward, HIGH);
@@ -47,7 +47,7 @@ void move_forward() {
 }
 
 void move_backward() {
-  int timeMoving = 1000;
+  int timeMoving = 900;
   digitalWrite (rBackward, HIGH);
   digitalWrite (rForward, LOW);
   digitalWrite (lBackward, HIGH);
